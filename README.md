@@ -3,7 +3,7 @@
 Simple chrome extension for add custom videos every time you open a new tab in your browser.
 
 # Manual Installation Steps for Chrome
-- [Download the latest .ZIP Archive](https://github.com)
+- [Download the latest .ZIP Archive](https://github.com/bestiannn/custom-video-new-tab-extension/archive/refs/heads/master.zip) or clone the repository
 - Extract the ZIP Archive **NOTE: is recomendable extract the ZIP in a safe folder**
 - Open up Chrome and in your Web Browser URL, enter: `chrome://extensions`
 - Enable the `Developer Mode` toggle, found in the top right of this view (typically) of the extensions page in your browser.
