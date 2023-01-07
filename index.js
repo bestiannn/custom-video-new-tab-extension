@@ -6,3 +6,5 @@ if (random) {
 } else {
   video.src = videosFolder + videoList[0];
 }
+
+document.addEventListener("contextmenu", (event) => event.preventDefault());
